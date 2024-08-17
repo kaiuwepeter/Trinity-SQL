@@ -11,7 +11,7 @@ BEGIN
   IF NEW.`id`>0 THEN
 
 replace into `battlenet_account_heirlooms` (`accountId`, `itemId`, `flags`) VALUES 
------------------------------- The labeling of the items is in German
+-- --------------------------- The labeling of the items is in German
 (NEW.`id`, '105678', '15'), -- Höllschreis Schicksalsklinge - 1H Schwert
 (NEW.`id`, '105693', '15'), -- Höllschreis Schildwall - Schild
 (NEW.`id`, '122245', '63'), -- Polierter Helm der Ehre - Platte Kopf

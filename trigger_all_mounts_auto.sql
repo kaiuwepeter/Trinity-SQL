@@ -11,7 +11,7 @@ BEGIN
 
 replace into `battlenet_account_mounts` (`battlenetAccountId`, `mountSpellId`, `flags`) VALUES 
 
------------------------ -- German mount names
+-- -------------------- -- German mount names
 (NEW.`id`, '458', '0'), -- Braunes Pferd
 (NEW.`id`, '459', '0'), -- Grauer Wolf
 (NEW.`id`, '468', '0'), -- Schimmel	
