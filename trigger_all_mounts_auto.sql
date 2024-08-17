@@ -36,8 +36,60 @@ replace into `battlenet_account_mounts` (`battlenetAccountId`, `mountSpellId`, `
 (NEW.`id`, '10790', '0'), -- Tiger
 (NEW.`id`, '10793', '0'), -- Gestreifter Nachtsaebler
 (NEW.`id`, '10795', '0'), -- Elfenbeinfarbener Raptor
-(NEW.`id`, '10796', '0'); -- Türkisfarbener Raptor
--- 25 Mounts	1
+(NEW.`id`, '10796', '0'), -- Türkisfarbener Raptor
+-- 1 (25)
+(NEW.`id`, '10799', '0'), -- Violetter Raptor
+(NEW.`id`, '10873', '0'), -- Roter Roboschreiter
+(NEW.`id`, '10969', '0'), -- Blauer Roboschreiter
+(NEW.`id`, '13819', '0'), -- Schlachtross (Paladin)
+(NEW.`id`, '15779', '0'), -- Weißer Roboschreiter
+(NEW.`id`, '15780', '0'), -- Grüner Roboschreiter
+(NEW.`id`, '16055', '0'), -- Nachtsäbler
+(NEW.`id`, '16056', '0'), -- Frostsäbler
+(NEW.`id`, '16080', '0'), -- Roter Wolf
+(NEW.`id`, '16081', '0'), -- Arktischer Wolf
+(NEW.`id`, '16082', '0'), -- Palomino-Hengst
+(NEW.`id`, '16083', '0'), -- Schimmel
+(NEW.`id`, '16084', '0'), -- Rotgescheckter Raptor
+(NEW.`id`, '17229', '0'), -- Winterspringfrostsäbler
+(NEW.`id`, '17450', '0'), -- Elfenbeinfarbener Raptor
+(NEW.`id`, '17453', '0'), -- Grüner Roboschreiter
+(NEW.`id`, '17454', '0'), -- Unlackierter Roboschreiter
+(NEW.`id`, '17459', '0'), -- Eisblauer Roboschreiter
+(NEW.`id`, '17460', '0'), -- Frostwidder
+(NEW.`id`, '17461', '0'), -- Schwarzer Widder
+(NEW.`id`, '17462', '0'), -- Rotes Skelettpferd
+(NEW.`id`, '17463', '0'), -- Blaues Skelettpferd
+(NEW.`id`, '17464', '0'), -- Braunes Skelettpferd
+(NEW.`id`, '17465', '0'), -- Grünes Skelettschlachtross
+(NEW.`id`, '17481', '0'), -- Todesstreitross
+-- 2 (50)
+(NEW.`id`, '18363', '0'), -- Reitkodo
+(NEW.`id`, '18989', '0'), -- Grauer Kodo
+(NEW.`id`, '18990', '0'), -- Brauner Kodo
+(NEW.`id`, '18991', '0'), -- Grüner Kodo
+(NEW.`id`, '18992', '0'), -- Graublauer Kodo
+(NEW.`id`, '22717', '0'), -- Schwarzes Schlachtross
+(NEW.`id`, '22718', '0'), -- Schwarzer Kriegskodo
+(NEW.`id`, '22719', '0'), -- Schwarzer Schlachtenschreiter
+(NEW.`id`, '22720', '0'), -- Schwarzer Kriegswidder
+(NEW.`id`, '22721', '0'), -- Schwarzer Kriegsraptor
+(NEW.`id`, '22722', '0'), -- Rotes Skelettschlachtross
+(NEW.`id`, '22723', '0'), -- Schwarzer Kriegstiger
+(NEW.`id`, '22724', '0'), -- Schwarzer Kriegswolf
+(NEW.`id`, '23161', '0'), -- Schreckensross (Hexenmeister)
+(NEW.`id`, '23214', '0'), -- Streitross (Paladin 60)
+(NEW.`id`, '23219', '0'), -- Schneller Schattensäbler
+(NEW.`id`, '23221', '0'), -- Schneller Frostsäbler
+(NEW.`id`, '23222', '0'), -- Schneller gelber Roboschreiter
+(NEW.`id`, '23223', '0'), -- Schneller weißer Roboschreiter
+(NEW.`id`, '23225', '0'), -- Schneller grüner Roboschreiter
+(NEW.`id`, '23227', '0'), -- Schneller Palomino
+(NEW.`id`, '23228', '0'), -- Schnelles weißes Ross
+(NEW.`id`, '23229', '0'), -- Schneller Brauner
+(NEW.`id`, '23238', '0'), -- Schneller brauner Widder
+(NEW.`id`, '37015', '0'), -- Schneller Netherdrache ???
+-- 3 (75)
   END IF;
 
 END//
