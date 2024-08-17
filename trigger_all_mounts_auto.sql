@@ -114,59 +114,59 @@ replace into `battlenet_account_mounts` (`battlenetAccountId`, `mountSpellId`, `
 (NEW.`id`, '26056', '0'), -- Grüne Qirajipanzerdrohne
 (NEW.`id`, '26655', '0'), -- Schwarze Qirajipanzerdrohne
 (NEW.`id`, '26656', '0'), -- Schwarze Qirajipanzerdrohne
-(NEW.`id`, '28828', '0'); -- Netherdrache
+(NEW.`id`, '28828', '0'), -- Netherdrache
 -- 4 (100)
-(NEW.`id`, '30174', '0'),
-(NEW.`id`, '32235', '0'),
-(NEW.`id`, '32239', '0'),
-(NEW.`id`, '32240', '0'),
-(NEW.`id`, '32242', '0'),
-(NEW.`id`, '32243', '0'),
-(NEW.`id`, '32244', '0'),
-(NEW.`id`, '32245', '0'),
-(NEW.`id`, '32246', '0'),
-(NEW.`id`, '32289', '0'),
-(NEW.`id`, '32290', '0'),
-(NEW.`id`, '32292', '0'),
-(NEW.`id`, '32295', '0'),
-(NEW.`id`, '32296', '0'),
-(NEW.`id`, '32297', '0'),
-(NEW.`id`, '33630', '0'),
-(NEW.`id`, '33660', '0'),
-(NEW.`id`, '34406', '0'),
-(NEW.`id`, '34767', '0'),
-(NEW.`id`, '34769', '0'),
-(NEW.`id`, '42776', '0'),
-(NEW.`id`, '34790', '0'),
-(NEW.`id`, '34795', '0'),
-(NEW.`id`, '34896', '0'),
-(NEW.`id`, '34897', '0'),
+(NEW.`id`, '30174', '0'), -- Reitschildkröte
+(NEW.`id`, '32235', '0'), -- Goldener Greif
+(NEW.`id`, '32239', '0'), -- Schwarzer Greif
+(NEW.`id`, '32240', '0'), -- Weißer Greif
+(NEW.`id`, '32242', '0'), -- Schneller blauer Greif
+(NEW.`id`, '32243', '0'), -- Lohfarbener Windreiter
+(NEW.`id`, '32244', '0'), -- Blauer Windreiter
+(NEW.`id`, '32245', '0'), -- Grüner Windreiter
+(NEW.`id`, '32246', '0'), -- Schneller roter Windreiter
+(NEW.`id`, '32289', '0'), -- Schneller roter Greif
+(NEW.`id`, '32290', '0'), -- Schneller grüner Greif
+(NEW.`id`, '32292', '0'), -- Schneller purpurfarbener Grei
+(NEW.`id`, '32295', '0'), -- Schneller grüner Windreiter
+(NEW.`id`, '32296', '0'), -- Schneller gelber Windreiter
+(NEW.`id`, '32297', '0'), -- Schneller lila Windreiter
+(NEW.`id`, '33630', '0'), -- Blauer Roboschreiter
+(NEW.`id`, '33660', '0'), -- Schneller pinkfarbener Falkenschreiter
+(NEW.`id`, '34406', '0'), -- Brauner Elekk
+(NEW.`id`, '34767', '0'), -- Thalassisches Streitross (Paladin Horde)
+(NEW.`id`, '34769', '0'), -- Thalassisches Schlachtross beschwören (Paladin Horde)
+(NEW.`id`, '42776', '0'), -- Spektraltiger <3
+(NEW.`id`, '34790', '0'), -- Dunkler Kriegstalbuk
+(NEW.`id`, '34795', '0'), -- Roter Falkenschreiter
+(NEW.`id`, '34896', '0'), -- Kobaltblauer Kriegstalbuk
+(NEW.`id`, '34897', '0'), -- Weißer Kriegstalbuk
 -- 5 (125)
-(NEW.`id`, '34898', '0'),
-(NEW.`id`, '34899', '0'),
-(NEW.`id`, '35018', '0'),
-(NEW.`id`, '35020', '0'),
-(NEW.`id`, '35022', '0'),
-(NEW.`id`, '35025', '0'),
-(NEW.`id`, '35027', '0'),
-(NEW.`id`, '35028', '0'),
-(NEW.`id`, '35710', '0'),
-(NEW.`id`, '35711', '0'),
-(NEW.`id`, '35712', '0'),
-(NEW.`id`, '35713', '0'),
-(NEW.`id`, '35714', '0'),
-(NEW.`id`, '36702', '0'),
-(NEW.`id`, '139595', '0'),
-(NEW.`id`, '39315', '0'),
-(NEW.`id`, '39316', '0'),
-(NEW.`id`, '39317', '0'),
-(NEW.`id`, '39318', '0'),
-(NEW.`id`, '39319', '0'),
-(NEW.`id`, '39798', '0'),
-(NEW.`id`, '39800', '0'),
-(NEW.`id`, '39801', '0'),
-(NEW.`id`, '39802', '0'),
-(NEW.`id`, '39803', '0');
+(NEW.`id`, '34898', '0'), -- Silberner Kriegstalbuk
+(NEW.`id`, '34899', '0'), -- Brauner Kriegstalbuk
+(NEW.`id`, '35018', '0'), -- Lila Falkenschreiter
+(NEW.`id`, '35020', '0'), -- Blauer Falkenschreiter
+(NEW.`id`, '35022', '0'), -- Schwarzer Falkenschreiter
+(NEW.`id`, '35025', '0'), -- Schneller grüner Falkenschreiter
+(NEW.`id`, '35027', '0'), -- Schneller lila Falkenschreiter
+(NEW.`id`, '35028', '0'), -- Schneller Kriegsschreiter
+(NEW.`id`, '35710', '0'), -- Grauer Elekk
+(NEW.`id`, '35711', '0'), -- Lila Elekk
+(NEW.`id`, '35712', '0'), -- Großer grüner Elekk
+(NEW.`id`, '35713', '0'), -- Großer blauer Elekk
+(NEW.`id`, '35714', '0'), -- Großer lila Elekk
+(NEW.`id`, '36702', '0'), -- Feuriges Schlachtross (Attumen - Karazhan)
+(NEW.`id`, '139595', '0'), -- Gepanzerte Blutschwinge (Shop)
+(NEW.`id`, '39315', '0'), -- Kobaltblauer Reittalbuk
+(NEW.`id`, '39316', '0'), -- Dunkler Reittalbuk
+(NEW.`id`, '39317', '0'), -- Silberner Reittalbuk
+(NEW.`id`, '39318', '0'), -- Brauner Reittalbuk
+(NEW.`id`, '39319', '0'), -- Weißer Reittalbuk
+(NEW.`id`, '39798', '0'), -- Grüner Reitnetherrochen
+(NEW.`id`, '39800', '0'), -- Roter Reitnetherrochen
+(NEW.`id`, '39801', '0'), -- Lila Reitnetherrochen
+(NEW.`id`, '39802', '0'), -- Silberner Reitnetherrochen
+(NEW.`id`, '39803', '0'); -- Blauer Reitnetherrochen
 -- 6 (150)
 
   END IF;
