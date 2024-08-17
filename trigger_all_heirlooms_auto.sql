@@ -89,27 +89,27 @@ replace into `battlenet_account_heirlooms` (`accountId`, `itemId`, `flags`) VALU
 (NEW.`id`, '126949', '15'), -- Zurückkehrender Champion - Schmuck
 (NEW.`id`, '127010', '63'), -- Makellose Brustplatte der Lichtschmiede - Platte Brust
 (NEW.`id`, '127011', '63'), -- Makellose Beinplatten der Lichtschmiede - Platte Beine
-(NEW.`id`, '127012', '63'), --
-(NEW.`id`, '128169', '63'), --
-(NEW.`id`, '128172', '63'), --
-(NEW.`id`, '128173', '63'), --
-(NEW.`id`, '128318', '15'), --
-(NEW.`id`, '131733', '15'), --
-(NEW.`id`, '140773', '63'), --
-(NEW.`id`, '153130', '63'), --
-(NEW.`id`, '166752', '63'), --
-(NEW.`id`, '166753', '63'), --
-(NEW.`id`, '166754', '63'), --
-(NEW.`id`, '166755', '63'), --
-(NEW.`id`, '166756', '63'), --
-(NEW.`id`, '166766', '63'), --
-(NEW.`id`, '166767', '63'), --
-(NEW.`id`, '166768', '63'), --
-(NEW.`id`, '166769', '63'), --
-(NEW.`id`, '166770', '63'), --
-(NEW.`id`, '199686', '3'), --
-(NEW.`id`, '219325', '3'); -- Ring(Fingers) Name: Band of Radiant Echoes (War Within Pre-patch)
--- 96 Items Stand 17.08.2024
+(NEW.`id`, '127012', '63'), -- Makelloser Helm der Lichtschmiede - Platte Kopf
+(NEW.`id`, '128169', '63'), -- Signet der Dritten Flotte - Ring
+(NEW.`id`, '128172', '63'), -- Kapitän Sanders verschollenes Band - Ring
+(NEW.`id`, '128173', '63'), -- Admiral Taylors Treuering - Ring
+(NEW.`id`, '128318', '15'), -- Berührung der Leere - Schmuck
+(NEW.`id`, '131733', '15'), -- Rethus Speer 2H Stankenwaffe
+(NEW.`id`, '140773', '63'), -- Adlerkrallenspeer - 2H Stangenwaffe
+(NEW.`id`, '153130', '63'), -- Ausbildungsamulett der Man'ari - Hals
+(NEW.`id`, '166752', '63'), -- Klingenbesetzter Umhang des Steingardisten - Rücken
+(NEW.`id`, '166753', '63'), -- Orcisches Kriegshorn - Schmuck
+(NEW.`id`, '166754', '63'), -- Foliant thalassischer Hymnen - Schmuck
+(NEW.`id`, '166755', '63'), -- Dämmerungspulver des Todespirschers - Schmuck
+(NEW.`id`, '166756', '63'), -- Loaberührte Kriegsrolle - Schmuck
+(NEW.`id`, '166766', '63'), -- Kriegsrolle der Gezeitenweisen - Schmuck
+(NEW.`id`, '166767', '63'), -- Kaldoreipulver des Zwielichts - Schmuck
+(NEW.`id`, '166768', '63'), -- Gesangbuch der 7. Legion - Schmuck
+(NEW.`id`, '166769', '63'), -- Zwergisches Kriegshorn - Schmuck
+(NEW.`id`, '166770', '63'), -- Gesäumter gilnearischer Umhang - Rücken
+(NEW.`id`, '199686', '3'), -- Instabiler Elementarzusammenfluss - Schmuck
+(NEW.`id`, '219325', '3'); -- Band der strahlenden Echos - Ring (War Within Pre-patch)
+-- 97 Items Stand 17.08.2024
 
 	
   END IF;
