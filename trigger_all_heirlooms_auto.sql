@@ -11,19 +11,19 @@ BEGIN
   IF NEW.`id`>0 THEN
 
 replace into `battlenet_account_heirlooms` (`accountId`, `itemId`, `flags`) VALUES 
-
-(NEW.`id`, '105678', '15'), --
-(NEW.`id`, '105693', '15'), --
-(NEW.`id`, '122245', '63'), --
-(NEW.`id`, '122246', '63'), --
-(NEW.`id`, '122247', '63'), --
-(NEW.`id`, '122248', '63'), --
-(NEW.`id`, '122249', '63'), --
-(NEW.`id`, '122250', '63'), --
-(NEW.`id`, '122251', '63'), --
-(NEW.`id`, '122253', '63'), --
-(NEW.`id`, '122254', '63'), --
-(NEW.`id`, '122255', '63'), --
+(NEW.`id`, '105678', '15'), -- Höllschreis Schicksalsklinge - 1H Schwert
+(NEW.`id`, '105693', '15'), -- Höllschreis Schildwall - Schild
+(NEW.`id`, '122245', '63'), -- Polierter Helm der Ehre - Platte Kopf
+(NEW.`id`, '122246', '63'), -- Stumpfer Helm des tobenden Berserkers - Kette Kopf
+(NEW.`id`, '122247', '63'), -- Mystische Helmkappe der Elemente - Kette Kopf
+(NEW.`id`, '122248', '63'), -- Befleckte Kappe der Schattenkunst - Leder Kopf
+(NEW.`id`, '122249', '63'), -- Geputzte Stammeskriegfedern - Leder Kopf
+(NEW.`id`, '122250', '63'), -- Zerlumpte Maske der Furcht - Stoff Kopf
+(NEW.`id`, '122251', '63'), -- Polierte Beinplatten der Ehre - Platte Beine
+(NEW.`id`, '122252', '63'), -- Stumpfe Beinlinge der Zerstörung - Kette Beine
+(NEW.`id`, '122253', '63'), -- Mystischer Kilt der Elemente - Kette Beine
+(NEW.`id`, '122254', '63'), -- Befleckte Hose der Schattenkunst - Leder Beine
+(NEW.`id`, '122255', '63'), -- Geputzte Wildfedergamaschen Leder Beine
 (NEW.`id`, '122256', '63'), --
 (NEW.`id`, '122260', '63'), --
 (NEW.`id`, '122261', '63'), --
