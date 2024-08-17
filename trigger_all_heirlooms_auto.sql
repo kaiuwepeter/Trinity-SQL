@@ -11,6 +11,7 @@ BEGIN
   IF NEW.`id`>0 THEN
 
 replace into `battlenet_account_heirlooms` (`accountId`, `itemId`, `flags`) VALUES 
+------------------------------ The labeling of the items is in German
 (NEW.`id`, '105678', '15'), -- Höllschreis Schicksalsklinge - 1H Schwert
 (NEW.`id`, '105693', '15'), -- Höllschreis Schildwall - Schild
 (NEW.`id`, '122245', '63'), -- Polierter Helm der Ehre - Platte Kopf
@@ -23,19 +24,19 @@ replace into `battlenet_account_heirlooms` (`accountId`, `itemId`, `flags`) VALU
 (NEW.`id`, '122252', '63'), -- Stumpfe Beinlinge der Zerstörung - Kette Beine
 (NEW.`id`, '122253', '63'), -- Mystischer Kilt der Elemente - Kette Beine
 (NEW.`id`, '122254', '63'), -- Befleckte Hose der Schattenkunst - Leder Beine
-(NEW.`id`, '122255', '63'), -- Geputzte Wildfedergamaschen Leder Beine
-(NEW.`id`, '122256', '63'), --
-(NEW.`id`, '122260', '63'), --
-(NEW.`id`, '122261', '63'), --
-(NEW.`id`, '122262', '63'), --
-(NEW.`id`, '122263', '63'), --
-(NEW.`id`, '122264', '63'), --
-(NEW.`id`, '122266', '63'), --
-(NEW.`id`, '122349', '63'), --
-(NEW.`id`, '122350', '63'), --
-(NEW.`id`, '122351', '63'), --
-(NEW.`id`, '122352', '63'), --
-(NEW.`id`, '122353', '63'), --
+(NEW.`id`, '122255', '63'), -- Geputzte Wildfedergamaschen - Leder Beine
+(NEW.`id`, '122256', '63'), -- Zerlumpte Gamaschen der Furcht - Stoff Beine
+(NEW.`id`, '122260', '63'), -- Abgenutztes Steinhautgargoylecape - Rücken
+(NEW.`id`, '122261', '63'), -- Geerbtes Cape des Schwarzen Barons - Rücken
+(NEW.`id`, '122262', '63'), -- Uralter Blutmondumhang - Rücken
+(NEW.`id`, '122263', '63'), -- Brünierter Helm der Macht - Platte Helm
+(NEW.`id`, '122264', '63'), -- Brünierte Beinplatten der Macht - Platte Beine
+(NEW.`id`, '122266', '63'), -- Zerfetzter Sandsturmumhang - Rücken
+(NEW.`id`, '122349', '63'), -- Blutiger Arkanitschnitter - 2H Axt
+(NEW.`id`, '122350', '63'), -- Ausbalancierter Herzsucher - 1H Dolch
+(NEW.`id`, '122351', '63'), -- Des ehrwürdigen Dal'Rends hochheilige Attacke - 1H Schwert
+(NEW.`id`, '122352', '63'), -- Verzauberter antiker Knochenbogen - Bogen
+(NEW.`id`, '122353', '63'), -- Attacke des würdevollen Direktors - 2H Stab
 (NEW.`id`, '122354', '63'), --
 (NEW.`id`, '122355', '63'), --
 (NEW.`id`, '122356', '63'), --
