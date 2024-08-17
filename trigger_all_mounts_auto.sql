@@ -90,6 +90,32 @@ replace into `battlenet_account_mounts` (`battlenetAccountId`, `mountSpellId`, `
 (NEW.`id`, '23238', '0'), -- Schneller brauner Widder
 (NEW.`id`, '37015', '0'), -- Schneller Netherdrache ???
 -- 3 (75)
+(NEW.`id`, '23239', '0'), -- Schneller grauer Widder
+(NEW.`id`, '23240', '0'), -- Schneller weißer Widder
+(NEW.`id`, '23241', '0'), -- Schneller blauer Raptor
+(NEW.`id`, '23242', '0'), -- Schneller olivfarbener Raptor
+(NEW.`id`, '23243', '0'), -- Schneller orangefarbener Raptor
+(NEW.`id`, '23246', '0'), -- Purpurnes Skelettschlachtross
+(NEW.`id`, '23247', '0'), -- Großer weißer Kodo
+(NEW.`id`, '23248', '0'), -- Großer grauer Kodo
+(NEW.`id`, '23249', '0'), -- Großer brauner Kodo
+(NEW.`id`, '23250', '0'), -- Schneller brauner Wolf
+(NEW.`id`, '23251', '0'), -- Schneller Waldwolf
+(NEW.`id`, '23252', '0'), -- Schneller grauer Wolf
+(NEW.`id`, '23338', '0'), -- Schneller Sturmsäbler
+(NEW.`id`, '23509', '0'), -- Frostwolfheuler
+(NEW.`id`, '23510', '0'), -- Streitwidder der Sturmlanzen
+(NEW.`id`, '24242', '0'), -- Schneller Razzashiraptor
+(NEW.`id`, '24252', '0'), -- Schneller zulianischer Tiger
+(NEW.`id`, '25863', '0'), -- Schwarze Qirajipanzerdrohne
+(NEW.`id`, '25953', '0'), -- Blaue Qirajipanzerdrohne
+(NEW.`id`, '26054', '0'), -- Rote Qirajipanzerdrohne
+(NEW.`id`, '26055', '0'), -- Gelbe Qirajipanzerdrohne
+(NEW.`id`, '26056', '0'), -- Grüne Qirajipanzerdrohne
+(NEW.`id`, '26655', '0'), -- Schwarze Qirajipanzerdrohne
+(NEW.`id`, '26656', '0'), -- Schwarze Qirajipanzerdrohne
+(NEW.`id`, '28828', '0'); -- Netherdrache
+-- 4 (100)
   END IF;
 
 END//
