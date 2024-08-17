@@ -37,32 +37,32 @@ replace into `battlenet_account_heirlooms` (`accountId`, `itemId`, `flags`) VALU
 (NEW.`id`, '122351', '63'), -- Des ehrwürdigen Dal'Rends hochheilige Attacke - 1H Schwert
 (NEW.`id`, '122352', '63'), -- Verzauberter antiker Knochenbogen - Bogen
 (NEW.`id`, '122353', '63'), -- Attacke des würdevollen Direktors - 2H Stab
-(NEW.`id`, '122354', '63'), --
-(NEW.`id`, '122355', '63'), --
-(NEW.`id`, '122356', '63'), --
-(NEW.`id`, '122357', '63'), --
-(NEW.`id`, '122358', '63'), --
-(NEW.`id`, '122359', '63'), --
-(NEW.`id`, '122360', '63'), --
-(NEW.`id`, '122361', '63'), --
-(NEW.`id`, '122362', '63'), --
-(NEW.`id`, '122363', '63'), --
-(NEW.`id`, '122364', '63'), --
-(NEW.`id`, '122365', '63'), --
-(NEW.`id`, '122366', '63'), --
-(NEW.`id`, '122367', '63'), --
-(NEW.`id`, '122368', '63'), --
-(NEW.`id`, '122369', '63'), --
-(NEW.`id`, '122370', '63'), --
-(NEW.`id`, '122371', '63'), --
-(NEW.`id`, '122372', '63'), --
-(NEW.`id`, '122373', '63'), --
-(NEW.`id`, '122374', '63'), --
-(NEW.`id`, '122375', '63'), --
-(NEW.`id`, '122376', '63'), --
-(NEW.`id`, '122377', '63'), --
-(NEW.`id`, '122378', '63'), --
-(NEW.`id`, '122379', '63'), --
+(NEW.`id`, '122354', '63'), -- Frommer Aurasteinhammer - 1H Streitkolben
+(NEW.`id`, '122355', '63'), -- Polierte Schiftung der Ehre - Platte Schulter
+(NEW.`id`, '122356', '63'), -- Champion Herods Schulter - Kette Schulter
+(NEW.`id`, '122357', '63'), -- Mystische Schulterstücke der Elemente - Kette Schulter
+(NEW.`id`, '122358', '63'), -- Befleckte Schiftung der Schattenkunst - Leder Schulter
+(NEW.`id`, '122359', '63'), -- Geputzte Eisenfederschultern - Leder Schulter
+(NEW.`id`, '122360', '63'), -- Zerlumpter Mantel der Furcht - Stoff Schulter
+(NEW.`id`, '122361', '63'), -- Schnelle Hand der Gerechtigkeit - Schmuck
+(NEW.`id`, '122362', '63'), -- Scharfes Auge der Bestie - Schmuck
+(NEW.`id`, '122363', '63'), -- Brünierter Stab des Aufsehers - 2H Stab
+(NEW.`id`, '122364', '63'), -- Geschärfter Scharlachroter Kris - 1H Dolch
+(NEW.`id`, '122365', '63'), -- Neugeschmiedeter Echtsilberchampion - 2H Schwert
+(NEW.`id`, '122366', '63'), -- Aufgerüstete zwergische Handkanone - Schusswaffe
+(NEW.`id`, '122367', '63'), -- Der gesegnete Hammer der Anmut - 1H Streitkolben
+(NEW.`id`, '122368', '63'), -- Großstab des Jordan - 2H Stab
+(NEW.`id`, '122369', '63'), -- Kampferprobte Hauklinge - 1H Schwert
+(NEW.`id`, '122370', '63'), -- Geerbtes Insigne der Horde - Schmuck
+(NEW.`id`, '122371', '63'), -- Geerbtes Insigne der Allianz - Schmuck
+(NEW.`id`, '122372', '63'), -- Verstärkte Palisadenschulterstücke - Platte Schulter
+(NEW.`id`, '122373', '63'), -- Makellose Schiftung der Lichtschmiede - Platte Schulter
+(NEW.`id`, '122374', '63'), -- Wertvoller Mantel der Tierherrschaft - Kette Schulter
+(NEW.`id`, '122375', '63'), -- Alte Schulterstücke der fünf Donner - Kette Schulter
+(NEW.`id`, '122376', '63'), -- Außergewöhnliche Sturmschleierschultern - Leder Schulter
+(NEW.`id`, '122377', '63'), -- Ausdauernde Schiftung des ungezähmten Herzens - Leder Schulter
+(NEW.`id`, '122378', '63'), -- Exquisiter Mantel des blinden Sehers - Stoff Schulter
+(NEW.`id`, '122379', '63'), -- Todesbotenbrustplatte des Champions - Kette Brust
 (NEW.`id`, '122380', '63'), --
 (NEW.`id`, '122381', '63'), --
 (NEW.`id`, '122382', '63'), --
