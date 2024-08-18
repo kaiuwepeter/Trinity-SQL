@@ -166,8 +166,87 @@ replace into `battlenet_account_mounts` (`battlenetAccountId`, `mountSpellId`, `
 (NEW.`id`, '39800', '0'), -- Roter Reitnetherrochen
 (NEW.`id`, '39801', '0'), -- Lila Reitnetherrochen
 (NEW.`id`, '39802', '0'), -- Silberner Reitnetherrochen
-(NEW.`id`, '39803', '0'); -- Blauer Reitnetherrochen
+(NEW.`id`, '39803', '0'), -- Blauer Reitnetherrochen
 -- 6 (150)
+(NEW.`id`, '40192', '0'), -- Al'ars Asche - Raid: Das Auge, Festung der Stürme EN: The Eye, Tempest Keep)
+(NEW.`id`, '41252', '0'), -- Rabenfürst - Dungeon: Sethekkhallen (Heroisch) EN: Sethekk Halls (Heroic)
+(NEW.`id`, '41513', '0'), -- Onyxfarbener Drache der Netherschwingen
+(NEW.`id`, '41514', '0'), -- Azurblauer Drache der Netherschwingen
+(NEW.`id`, '41515', '0'), -- Kobaltblauer Drache der Netherschwingen
+(NEW.`id`, '41516', '0'), -- Lila Drache der Netherschwingen
+(NEW.`id`, '41517', '0'), -- Viridiangrüner Drache der Netherschwingen
+(NEW.`id`, '41518', '0'), -- Violetter Drache der Netherschwingen
+(NEW.`id`, '42777', '0'), -- Schneller Spektraltiger
+(NEW.`id`, '43688', '0'), -- Kriegsbär der Amani
+(NEW.`id`, '43899', '0'), -- Braufestwidder
+(NEW.`id`, '43900', '0'), -- Schneller Braufestwidder
+(NEW.`id`, '43927', '0'), -- Cenarischer Kriegshippogryph - Fraktion: Expedition des Cenarius - Ehrfürchtig
+(NEW.`id`, '44151', '0'), -- Turbogetriebene Flugmaschine - Beruf: Ingenieurskunst
+(NEW.`id`, '44153', '0'), -- Flugmaschine - Beruf: Ingenieurskunst
+(NEW.`id`, '44317', '0'), -- Netherdrache des Erbarmungslosen
+(NEW.`id`, '44744', '0'), -- Netherdrache des Erbarmungslosen
+(NEW.`id`, '46197', '0'), -- X-51 Netherrakete
+(NEW.`id`, '46199', '0'), -- X-51 Netherrakete X-TREM
+(NEW.`id`, '46628', '0'), -- Schneller weißer Falkenschreiter Dungeon: Terrasse der Magister
+(NEW.`id`, '48025', '0'), -- Ross des kopflosen Reiters - Festtag: Schlotternächte
+(NEW.`id`, '48027', '0'), -- Schwarzer Kriegselekk - PvP Belohnung
+(NEW.`id`, '48778', '0'), -- Todesstreitross von Acherus - (Todesritter)
+(NEW.`id`, '48954', '0'), -- Schnelles Zhevra - (WoWHead: This spell is not in game.)
+(NEW.`id`, '49193', '0'), -- Rachsüchtiger Netherdrache - Arenasaison 3 von The Burning Crusade
+-- 7 (175)
+(NEW.`id`, '49322', '0'), -- Schnelles Zhevra - Werbt einen Freund
+(NEW.`id`, '49378', '0'), -- Reitkodo des Braufests
+(NEW.`id`, '49379', '0'), -- Großer Braufestkodo
+(NEW.`id`, '51412', '0'), -- Großer Kampfbär
+(NEW.`id`, '54729', '0'), -- Geflügelter Greif der Schwarzen Klinge (Todesritter)
+(NEW.`id`, '54753', '0'), -- Weißer Eisbär
+(NEW.`id`, '55164', '0'), -- Schneller spektraler Greif
+(NEW.`id`, '55531', '0'), -- Feuerstuhl - Beruf: Ingenieurskunst
+(NEW.`id`, '58615', '0'), -- Brutaler Netherdrache - Arenasaison 4 von The Burning Crusade
+(NEW.`id`, '58983', '0'), -- Großer Blizzardbär (Promotion: BlizzCon)
+(NEW.`id`, '59567', '0'), -- Azurblauer Drache - Malygos - Raid: Auge der Ewigkeit
+(NEW.`id`, '59568', '0'), -- Blaudrache
+(NEW.`id`, '59569', '0'), -- Bronzedrache - Dungeon: Das Ausmerzen von Stratholme
+(NEW.`id`, '59570', '0'), -- Rotdrache - Fraktion: Der Wyrmruhpakt - Ehrfürchtig
+(NEW.`id`, '59571', '0'), -- Zwielichtdrache - Sartharion - Raid: Das Obsidiansanktum
+(NEW.`id`, '59572', '0'), -- Schwarzer Eisbär
+(NEW.`id`, '59650', '0'), -- Schwarzdrache - Sartharion - Raid: Das Obsidiansanktum
+(NEW.`id`, '59785', '0'), -- Schwarzes Kriegsmammut PvP Belohnung Tausendwinter
+(NEW.`id`, '59788', '0'), -- Schwarzes Kriegsmammut PvP Belohnung Tausendwinter
+(NEW.`id`, '59791', '0'), -- Wollmammut - Allianz
+(NEW.`id`, '59793', '0'), -- Wollmammut - Horde
+(NEW.`id`, '59797', '0'), -- Eismammut - Horde - Fraktion: Die Söhne Hodirs - Respektvoll
+(NEW.`id`, '59799', '0'), -- Eismammut - Allianz - Fraktion: Die Söhne Hodirs - Respektvoll
+(NEW.`id`, '59961', '0'), -- Roter Protodrache - Erfolg: Ruhm des Helden
+(NEW.`id`, '59976', '0'), -- Schwarzer Protodrache
+-- 8 (200)
+(NEW.`id`, '59996', '0'), -- Blauer Protodrache - Dungeon:  Turm Utgarde
+(NEW.`id`, '60002', '0'), -- Zeitverlorener Protodrache
+(NEW.`id`, '60021', '0'), -- Verseuchter Protodrache
+(NEW.`id`, '60024', '0'), -- Violetter Protodrache
+(NEW.`id`, '60025', '0'), -- Albinodrache - Erfolg: Führen der Kavallerie
+(NEW.`id`, '60114', '0'), -- Gepanzerter Braunbär - Allianz
+(NEW.`id`, '60116', '0'), -- Gepanzerter Braunbär - Horde
+(NEW.`id`, '60118', '0'), -- Schwarzer Kriegsbär - Allianz - PVP Belohung (Erfolg: Für die Allianz!)
+(NEW.`id`, '60119', '0'), -- Schwarzer Kriegsbär - Horde - PVP Belohung (Erfolg: Für die Horde!)
+(NEW.`id`, '60136', '0'), -- Großes Karawanenmammut
+(NEW.`id`, '60140', '0'), -- Großes Karawanenmammut
+(NEW.`id`, '60424', '0'), -- Chopper des Robogenieurs - Beruf: Ingenieurskunst
+(NEW.`id`, '61229', '0'), -- Gepanzerter weißer Greif - Allianz
+(NEW.`id`, '61230', '0'), -- Gepanzerter blauer Windreiter - Horde
+(NEW.`id`, '61294', '0'), -- Grüner Protodrache
+(NEW.`id`, '61309', '0'), -- Großartiger fliegender Teppich - Beruf: Schneiderei
+(NEW.`id`, '61425', '0'), -- Tundramammut des Reisenden - Allianz
+(NEW.`id`, '61447', '0'), -- Tundramammut des Reisenden - Horde
+(NEW.`id`, '61451', '0'), -- Fliegender Teppich - Beruf: Schneiderei
+(NEW.`id`, '61465', '0'), -- Großes schwarzes Kriegsmammut - PVP Belohnung - Allianz
+(NEW.`id`, '61467', '0'), -- Großes schwarzes Kriegsmammut - PVP Belohunhg - Horde
+(NEW.`id`, '61469', '0'), -- Großes Eismammut - Fraktion: Die Söhne Hodirs - Ehrfürchtig - Horde
+(NEW.`id`, '61470', '0'), -- Großes Eismammut - Fraktion: Die Söhne Hodirs - Ehrfürchtig - Allianz
+(NEW.`id`, '61996', '0'), -- Blauer Drachenfalke - Erfolg: Tierisch viele Reittiere - Allianz
+(NEW.`id`, '61997', '0'); -- Roter Drachenfalke - Erfolg: Tierisch viele Reittiere - Horde
+-- 9 (225)
+
 
   END IF;
 
