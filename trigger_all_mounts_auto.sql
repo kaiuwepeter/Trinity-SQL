@@ -11,6 +11,14 @@ BEGIN
 
 replace into `battlenet_account_mounts` (`battlenetAccountId`, `mountSpellId`, `flags`) VALUES 
 
+-- Why are there more ids than mounts in the list?
+--
+-- Not all mounts are available,
+-- some never made it into the game
+-- others were removed from the game
+-- but all available mounts will be added
+
+All IDs were checked via WoWHead and are or were available
 -- -------------------- -- German mount names
 (NEW.`id`, '458', '0'), -- Braunes Pferd
 (NEW.`id`, '459', '0'), -- Grauer Wolf
