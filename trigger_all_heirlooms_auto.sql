@@ -108,7 +108,7 @@ replace into `battlenet_account_heirlooms` (`accountId`, `itemId`, `flags`) VALU
 (NEW.`id`, '166769', '63'), -- Zwergisches Kriegshorn - Schmuck
 (NEW.`id`, '166770', '63'), -- Gesäumter gilnearischer Umhang - Rücken
 (NEW.`id`, '199686', '3'), -- Instabiler Elementarzusammenfluss - Schmuck
-(NEW.`id`, '219325', '3'); -- Band der strahlenden Echos - Ring (War Within Pre-patch)
+(NEW.`id`, '219325', '3'); -- Band der strahlenden Echos - Ring (The War Within Pre-patch)
 -- 97 Items Stand 17.08.2024
 
 	
