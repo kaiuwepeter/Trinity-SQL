@@ -306,6 +306,32 @@ All IDs were checked via WoWHead and are or were available
 (NEW.`id`, '68187', '0'), -- Weißes Schlachtross des Kreuzfahrers - Allianz
 (NEW.`id`, '68188', '0'); -- Schwarzes Schlachtross des Kreuzfahrers - Horde
 -- 11 (275)
+(NEW.`id`, '69395', '0'), -- Drache von Onyxia - Raid: Onyxia - Boss: Onyxia
+(NEW.`id`, '69820', '0'), -- Kodo der Sonnenläufer - Horde Paladin
+(NEW.`id`, '69826', '0'), -- Großen Kodo der Sonnenläufer
+(NEW.`id`, '71342', '0'), -- Herzbrecher X-45
+(NEW.`id`, '71810', '0'), -- Frostwyrm des zornerfüllten Gladiators
+(NEW.`id`, '72286', '0'), -- Unbesiegbar - Raid: Eiskronenzitadelle - Boss: Lichkönig
+(NEW.`id`, '72807', '0'), -- Eisbeschlagener Frostbrutbezwinger
+(NEW.`id`, '72808', '0'), -- Blutgebadeter Frostbrutbezwinger
+(NEW.`id`, '73313', '0'), -- Scharlachrotes Todesstreitross
+(NEW.`id`, '73629', '0'), -- Elekk des Exarchen beschwören - Allianz Paladin Draenei
+(NEW.`id`, '73630', '0'), -- Großen Elekk des Exarchen beschwören  - Allianz Paladin Draenei
+(NEW.`id`, '74856', '0'), -- Flammender Hippogryph
+(NEW.`id`, '74918', '0'), -- Weißes Wollrhinozeros
+(NEW.`id`, '75207', '0'), -- Vashj'ir-Seepferdchen
+(NEW.`id`, '75596', '0'), -- Fliegender Frostteppich - Beruf: Schneidern
+(NEW.`id`, '75614', '0'), -- Himmelsross
+(NEW.`id`, '75973', '0'), -- X-53 Reiserakete
+(NEW.`id`, '84751', '0'), -- Fossiler Raptor
+(NEW.`id`, '87090', '0'), -- Goblinisches Trike - Horde
+(NEW.`id`, '87091', '0'), -- Goblinisches Turbotrike - Horde
+(NEW.`id`, '88331', '0'), -- Vulkansteindrache
+(NEW.`id`, '88335', '0'), -- Drache des Ostwinds
+(NEW.`id`, '88718', '0'), -- Phosphorsteindrache
+(NEW.`id`, '88741', '0'), -- Drache des Westwinds - Fraktion: Wächter von Baradin - Ehrfürchtig
+(NEW.`id`, '88742', '0'); -- Drache des Nordwinds - Raid: Der Vortexgipfel - Boss: Altairus
+-- 12 (300)
 
   END IF;
 
