@@ -252,9 +252,34 @@ All IDs were checked via WoWHead and are or were available
 (NEW.`id`, '61469', '0'), -- Großes Eismammut - Fraktion: Die Söhne Hodirs - Ehrfürchtig - Horde
 (NEW.`id`, '61470', '0'), -- Großes Eismammut - Fraktion: Die Söhne Hodirs - Ehrfürchtig - Allianz
 (NEW.`id`, '61996', '0'), -- Blauer Drachenfalke - Erfolg: Tierisch viele Reittiere - Allianz
-(NEW.`id`, '61997', '0'); -- Roter Drachenfalke - Erfolg: Tierisch viele Reittiere - Horde
+(NEW.`id`, '61997', '0'), -- Roter Drachenfalke - Erfolg: Tierisch viele Reittiere - Horde
 -- 9 (225)
-
+(NEW.`id`, '62048', '0'), -- Verdammnisfalke der Illidari
+(NEW.`id`, '63232', '0'), -- Ross aus Sturmwind
+(NEW.`id`, '63635', '0'), -- Raptor der Dunkelspeere
+(NEW.`id`, '63636', '0'), -- Widder aus Eisenschmiede
+(NEW.`id`, '63637', '0'), -- Darnassischer Nachtsäbler
+(NEW.`id`, '63638', '0'), -- Roboschreiter aus Gnomeregan
+(NEW.`id`, '63639', '0'), -- Elekk aus der Exodar
+(NEW.`id`, '63640', '0'), -- Wolf aus Orgrimmar
+(NEW.`id`, '63641', '0'), -- Kodo aus Donnerfels
+(NEW.`id`, '63642', '0'), -- Falkenschreiter aus Silbermond
+(NEW.`id`, '63643', '0'), -- Schlachtross der Verlassenen
+(NEW.`id`, '63796', '0'), -- Mimirons Kopf - Raid: Ulduar Boss: Yogg-Saron
+(NEW.`id`, '63844', '0'), -- Argentumhippogryph
+(NEW.`id`, '63956', '0'), -- Eisenbeschlagener Protodrache - Erfolg: Ruhm des Schlachtzüglers von Ulduar
+(NEW.`id`, '63963', '0'), -- Rostiger Protodrache
+(NEW.`id`, '64656', '0'), -- Blaues Skelettschlachtross
+(NEW.`id`, '64657', '0'), -- Weißer Kodo
+(NEW.`id`, '64658', '0'), -- Schwarzer Wolf
+(NEW.`id`, '64659', '0'), -- Gifthautravasaurus
+(NEW.`id`, '64731', '0'), -- Meeresschildkröte - Beruf: Angeln
+(NEW.`id`, '64927', '0'), -- Frostwyrm des tödlichen Gladiators
+(NEW.`id`, '64977', '0'), -- Schwarzes Skelettpferd
+(NEW.`id`, '65439', '0'), -- Frostwyrm des wütenden Gladiators
+(NEW.`id`, '65637', '0'), -- Großer roter Elekk
+(NEW.`id`, '65638', '0'); -- Schneller Mondsäbler
+-- 10 (250)
 
   END IF;
 
