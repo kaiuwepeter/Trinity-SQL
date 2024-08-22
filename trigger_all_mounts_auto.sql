@@ -278,8 +278,34 @@ All IDs were checked via WoWHead and are or were available
 (NEW.`id`, '64977', '0'), -- Schwarzes Skelettpferd
 (NEW.`id`, '65439', '0'), -- Frostwyrm des wütenden Gladiators
 (NEW.`id`, '65637', '0'), -- Großer roter Elekk
-(NEW.`id`, '65638', '0'); -- Schneller Mondsäbler
+(NEW.`id`, '65638', '0'), -- Schneller Mondsäbler
 -- 10 (250)
+(NEW.`id`, '65639', '0'), -- Schneller roter Falkenschreiter
+(NEW.`id`, '65640', '0'), -- Schnelles graues Ross
+(NEW.`id`, '65641', '0'), -- Großer goldener Kodo
+(NEW.`id`, '65642', '0'), -- Turboschreiter
+(NEW.`id`, '65643', '0'), -- Schneller violetter Widder
+(NEW.`id`, '65644', '0'), -- Schneller purpurfarbener Raptor
+(NEW.`id`, '65645', '0'), -- Weißes Skelettschlachtross
+(NEW.`id`, '65646', '0'), -- Schneller burgundfarbener Wolf
+(NEW.`id`, '65917', '0'), -- Magischer Hahn
+(NEW.`id`, '66087', '0'), -- Hippogryph des Silberbunds - Fraktion: Der Silberbund - Ehrfürchtig
+(NEW.`id`, '66088', '0'), -- Drachenfalke der Sonnenhäscher - 
+(NEW.`id`, '66090', '0'), -- Drachenfalke der Sonnenhäscher - Fraktion: Die Sonnenhäscher - Ehrfürchtig
+(NEW.`id`, '66091', '0'), -- Falkenschreiter der Sonnenhäscher - Fraktion: Die Sonnenhäscher - Ehrfürchtig
+(NEW.`id`, '66122', '0'), -- Magischer Hahn
+(NEW.`id`, '66123', '0'), -- Magischer Hahn
+(NEW.`id`, '66124', '0'), -- Magischer Hahn
+(NEW.`id`, '66846', '0'), -- Ockerfarbenes Skelettschlachtross
+(NEW.`id`, '66847', '0'), -- Gestreifter Dämmersäbler
+(NEW.`id`, '66906', '0'), -- Argentumstreitross
+(NEW.`id`, '67336', '0'), -- Frostwyrm des unerbittlichen Gladiators
+(NEW.`id`, '67466', '0'), -- Argentumschlachtross
+(NEW.`id`, '68056', '0'), -- Schneller Wolf der Horde - Horde
+(NEW.`id`, '68057', '0'), -- Schnelles Ross der Allianz - Allianz
+(NEW.`id`, '68187', '0'), -- Weißes Schlachtross des Kreuzfahrers - Allianz
+(NEW.`id`, '68188', '0'); -- Schwarzes Schlachtross des Kreuzfahrers - Horde
+-- 11 (275)
 
   END IF;
 
