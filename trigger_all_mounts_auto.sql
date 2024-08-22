@@ -331,7 +331,7 @@ All IDs were checked via WoWHead and are or were available
 (NEW.`id`, '88718', '0'), -- Phosphorsteindrache
 (NEW.`id`, '88741', '0'), -- Drache des Westwinds - Fraktion: Wächter von Baradin - Ehrfürchtig
 (NEW.`id`, '88742', '0'); -- Drache des Nordwinds - Raid: Der Vortexgipfel - Boss: Altairus
--- 12 (300)
+-- 12 (300) -- 300 IDs --> 271 mounts are displayed in the game (v11.0.2 56196 - Aug 16, 2024)
 
   END IF;
 
