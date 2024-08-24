@@ -358,31 +358,31 @@ All IDs were checked via WoWHead and are or were available
 (NEW.`id`, '98718', '0'), -- Beruhigtes Seepferdchen
 (NEW.`id`, '98727', '0'), -- Geflügelter Wächter
 -- 13 (325)
-(NEW.`id`, '100332', '0'),
-(NEW.`id`, '100333', '0'),
-(NEW.`id`, '101282', '0'),
-(NEW.`id`, '101542', '0'),
-(NEW.`id`, '101573', '0'),
-(NEW.`id`, '101821', '0'),
-(NEW.`id`, '102346', '0'),
-(NEW.`id`, '102349', '0'),
-(NEW.`id`, '102350', '0'),
-(NEW.`id`, '102488', '0'),
-(NEW.`id`, '102514', '0'),
-(NEW.`id`, '103081', '0'),
-(NEW.`id`, '103195', '0'),
-(NEW.`id`, '103196', '0'),
-(NEW.`id`, '107203', '0'),
-(NEW.`id`, '107516', '0'),
-(NEW.`id`, '107517', '0'),
-(NEW.`id`, '107842', '0'),
-(NEW.`id`, '107844', '0'),
-(NEW.`id`, '107845', '0'),
-(NEW.`id`, '110039', '0'),
-(NEW.`id`, '110051', '0'),
-(NEW.`id`, '113120', '0'),
-(NEW.`id`, '113199', '0'),
-(NEW.`id`, '171850', '0'),
+(NEW.`id`, '100332', '0'), -- Boshaftes Schlachtross
+(NEW.`id`, '100333', '0'), -- Boshafter Kriegswolf
+(NEW.`id`, '101282', '0'), -- Zwielichtdrache des boshaften Gladiators
+(NEW.`id`, '101542', '0'), -- Flammenkralle von Alysrazar
+(NEW.`id`, '101573', '0'), -- Schneller Strandschreiter
+(NEW.`id`, '101821', '0'), -- Zwielichtdrache des ruchlosen Gladiators
+(NEW.`id`, '102346', '0'), -- Schneller Waldschreiter
+(NEW.`id`, '102349', '0'), -- Schneller Frühlingsschreiter
+(NEW.`id`, '102350', '0'), -- Schneller Blumenstrauß
+(NEW.`id`, '102488', '0'), -- Weißes Reitkamel
+(NEW.`id`, '102514', '0'), -- Verderbter Hippogryph
+(NEW.`id`, '103081', '0'), -- Dunkelmond-Tanzbär
+(NEW.`id`, '103195', '0'), -- Bergpferd
+(NEW.`id`, '103196', '0'), -- Schnelles Bergpferd
+(NEW.`id`, '107203', '0'), -- Tyraels Streitross
+(NEW.`id`, '107516', '0'), -- Spektraler Greif
+(NEW.`id`, '107517', '0'), -- Spektraler Windreiter - Promotion: Rolle der Auferstehung
+(NEW.`id`, '107842', '0'), -- Lodernder Drache
+(NEW.`id`, '107844', '0'), -- Zwielichtbote
+(NEW.`id`, '107845', '0'), -- Erste Dame der Lebensbinderin
+(NEW.`id`, '110039', '0'), -- Experiment 12-B
+(NEW.`id`, '110051', '0'), -- Herz der Aspekte
+(NEW.`id`, '113120', '0'), -- Teufelsdrache
+(NEW.`id`, '113199', '0'), -- Jadewolkenschlange
+(NEW.`id`, '171850', '0'), -- Llothienstreuner
 -- 14 (350)
 (NEW.`id`, '118089', '0'),
 (NEW.`id`, '118737', '0'),
