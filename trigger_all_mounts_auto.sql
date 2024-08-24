@@ -436,31 +436,31 @@ All IDs were checked via WoWHead and are or were available
 (NEW.`id`, '129552', '0'), -- Purpurroter Pandarenphönix
 (NEW.`id`, '129918', '0'), -- Donnernde erhabene Wolkenschlange
 -- 16 (400)
-(NEW.`id`, '129932', '0'),
-(NEW.`id`, '129934', '0'),
-(NEW.`id`, '129935', '0'),
-(NEW.`id`, '130086', '0'),
-(NEW.`id`, '130092', '0'),
-(NEW.`id`, '130137', '0'),
-(NEW.`id`, '130138', '0'),
-(NEW.`id`, '130965', '0'),
-(NEW.`id`, '130985', '0'),
-(NEW.`id`, '171851', '0'),
-(NEW.`id`, '132036', '0'),
-(NEW.`id`, '132117', '0'),
-(NEW.`id`, '132118', '0'),
-(NEW.`id`, '132119', '0'),
-(NEW.`id`, '133023', '0'),
-(NEW.`id`, '134359', '0'),
-(NEW.`id`, '134573', '0'),
-(NEW.`id`, '135416', '0'),
-(NEW.`id`, '135418', '0'),
-(NEW.`id`, '136163', '0'),
-(NEW.`id`, '136164', '0'),
-(NEW.`id`, '136400', '0'),
-(NEW.`id`, '136471', '0'),
-(NEW.`id`, '136505', '0'),
-(NEW.`id`, '138423', '0'),
+(NEW.`id`, '129932', '0'), -- Grüner Shado-Pan-Reittiger
+(NEW.`id`, '129934', '0'), -- Blauer Shado-Pan-Reittiger
+(NEW.`id`, '129935', '0'), -- Roter Shado-Pan-Reittiger
+(NEW.`id`, '130086', '0'), -- Braune Reitziege
+(NEW.`id`, '130092', '0'), -- Rote Flugwolke
+(NEW.`id`, '130137', '0'), -- Weiße Reitziege
+(NEW.`id`, '130138', '0'), -- Schwarze Reitziege
+(NEW.`id`, '130965', '0'), -- Sohn von Galleon
+(NEW.`id`, '130985', '0'), -- Pandarendrachen
+(NEW.`id`, '171851', '0'), -- Nachtheuler der Garn
+(NEW.`id`, '132036', '0'), -- Donnernde Rubinwolkenschlange
+(NEW.`id`, '132117', '0'), -- Aschegrauer Pandarenphönix
+(NEW.`id`, '132118', '0'), -- Smaragdgrüner Pandarenphönix
+(NEW.`id`, '132119', '0'), -- Violetter Pandarenphönix
+(NEW.`id`, '133023', '0'), -- Jadegrüner Pandarendrachen
+(NEW.`id`, '134359', '0'), -- Himmelsgolem - Beruf: Ingenieurskunst
+(NEW.`id`, '134573', '0'), -- Schnelles Windross
+(NEW.`id`, '135416', '0'), -- Großer gepanzerter Greif
+(NEW.`id`, '135418', '0'), -- Großer gepanzerter Wyvern
+(NEW.`id`, '136163', '0'), -- Großer Greif
+(NEW.`id`, '136164', '0'), -- Großer Wyvern
+(NEW.`id`, '136400', '0'), -- Gepanzerter Himmelskreischer
+(NEW.`id`, '136471', '0'), -- Ausgeburt von Horridon
+(NEW.`id`, '136505', '0'), -- Geisterhaftes Streitross
+(NEW.`id`, '138423', '0'), -- Kobaltblaues Urterrorhorn
 -- 17 (425)
 (NEW.`id`, '138424', '0'),
 (NEW.`id`, '138425', '0'),
