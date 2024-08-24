@@ -384,31 +384,31 @@ All IDs were checked via WoWHead and are or were available
 (NEW.`id`, '113199', '0'), -- Jadewolkenschlange
 (NEW.`id`, '171850', '0'), -- Llothienstreuner
 -- 14 (350)
-(NEW.`id`, '118089', '0'),
-(NEW.`id`, '118737', '0'),
-(NEW.`id`, '120043', '0'),
-(NEW.`id`, '120395', '0'),
-(NEW.`id`, '120822', '0'),
-(NEW.`id`, '171847', '0'),
-(NEW.`id`, '121820', '0'),
-(NEW.`id`, '121836', '0'),
-(NEW.`id`, '121837', '0'),
-(NEW.`id`, '121838', '0'),
-(NEW.`id`, '121839', '0'),
-(NEW.`id`, '122708', '0'),
-(NEW.`id`, '123182', '0'),
-(NEW.`id`, '123886', '0'),
-(NEW.`id`, '123992', '0'),
-(NEW.`id`, '123993', '0'),
-(NEW.`id`, '124408', '0'),
-(NEW.`id`, '124550', '0'),
-(NEW.`id`, '124659', '0'),
-(NEW.`id`, '126507', '0'),
-(NEW.`id`, '126508', '0'),
-(NEW.`id`, '127154', '0'),
-(NEW.`id`, '127156', '0'),
-(NEW.`id`, '127158', '0'),
-(NEW.`id`, '127161', '0'),
+(NEW.`id`, '118089', '0'), -- Azurblauer Wasserschreiter - Fraktion: Die Angler - Ehrfürchtig
+(NEW.`id`, '118737', '0'), -- Pandarendrachen
+(NEW.`id`, '120043', '0'), -- Juwelenbesetzter Onyxpanther
+(NEW.`id`, '120395', '0'), -- Grüne Drachenschildkröte
+(NEW.`id`, '120822', '0'), -- Große rote Drachenschildkröte
+(NEW.`id`, '171847', '0'), -- Glutmähnenschlachtross
+(NEW.`id`, '121820', '0'), -- Obsidiannachtschwinge
+(NEW.`id`, '121836', '0'), -- Saphirpanther
+(NEW.`id`, '121837', '0'), -- Jadepanther
+(NEW.`id`, '121838', '0'), -- Rubinpanther
+(NEW.`id`, '121839', '0'), -- Sonnensteinpanther
+(NEW.`id`, '122708', '0'), -- Großes Expeditionsyak
+(NEW.`id`, '123182', '0'), -- Kafayak
+(NEW.`id`, '123886', '0'), -- Bernskorpion - Fraktion: Die Klaxxi - Ehrfürchtig
+(NEW.`id`, '123992', '0'), -- Azurwolkenschlange
+(NEW.`id`, '123993', '0'), -- Goldwolkenschlange
+(NEW.`id`, '124408', '0'), -- Donnernde Jadewolkenschlange
+(NEW.`id`, '124550', '0'), -- Zwielichtdrache des kataklysmischen Gladiators
+(NEW.`id`, '124659', '0'), -- Kaiserqilen
+(NEW.`id`, '126507', '0'), -- Rakete mit abgereichertem Kyparium
+(NEW.`id`, '126508', '0'), -- Geosynchroner Weltendreher
+(NEW.`id`, '127154', '0'), -- Onyxwolkenschlange
+(NEW.`id`, '127156', '0'), -- Purpurwolkenschlange
+(NEW.`id`, '127158', '0'), -- Himmlische Onyxwolkenschlange
+(NEW.`id`, '127161', '0'), -- Himmlische Purpurwolkenschlange
 -- 15 (375)
 (NEW.`id`, '127164', '0'),
 (NEW.`id`, '127165', '0'),
