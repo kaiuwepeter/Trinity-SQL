@@ -332,31 +332,31 @@ All IDs were checked via WoWHead and are or were available
 (NEW.`id`, '88741', '0'), -- Drache des Westwinds - Fraktion: Wächter von Baradin - Ehrfürchtig
 (NEW.`id`, '88742', '0'), -- Drache des Nordwinds - Raid: Der Vortexgipfel - Boss: Altairus
 -- 12 (300) -- 300 IDs --> 271 mounts are displayed in the game (v11.0.2 56196 - Aug 16, 2024)
-(NEW.`id`, '88744', '0'),
-(NEW.`id`, '171436', '0'),
-(NEW.`id`, '88746', '0'),
-(NEW.`id`, '88748', '0'),
-(NEW.`id`, '88749', '0'),
-(NEW.`id`, '88750', '0'),
-(NEW.`id`, '88990', '0'),
-(NEW.`id`, '90621', '0'),
-(NEW.`id`, '92155', '0'),
-(NEW.`id`, '92231', '0'),
-(NEW.`id`, '92232', '0'),
-(NEW.`id`, '93326', '0'),
-(NEW.`id`, '93623', '0'),
-(NEW.`id`, '93644', '0'),
-(NEW.`id`, '96491', '0'),
-(NEW.`id`, '96499', '0'),
-(NEW.`id`, '96503', '0'),
-(NEW.`id`, '97359', '0'),
-(NEW.`id`, '97493', '0'),
-(NEW.`id`, '97501', '0'),
-(NEW.`id`, '97560', '0'),
-(NEW.`id`, '97581', '0'),
-(NEW.`id`, '98204', '0'),
-(NEW.`id`, '98718', '0'),
-(NEW.`id`, '98727', '0'),
+(NEW.`id`, '88744', '0'), -- Drache des Südwinds
+(NEW.`id`, '171436', '0'), -- Blutschreitergronnling
+(NEW.`id`, '88746', '0'), -- Vitriolsteindrache
+(NEW.`id`, '88748', '0'), -- Braunes Reitkamel
+(NEW.`id`, '88749', '0'), -- Hellbraunes Reitkamel
+(NEW.`id`, '88750', '0'), -- Graues Reitkamel
+(NEW.`id`, '88990', '0'), -- Dunkler Phönix
+(NEW.`id`, '90621', '0'), -- Goldkönig
+(NEW.`id`, '92155', '0'), -- Ultramarinblaue Qirajipanzerdrohne
+(NEW.`id`, '92231', '0'), -- Spektralross - Allianz
+(NEW.`id`, '92232', '0'), -- Spektralwolf - Horde
+(NEW.`id`, '93326', '0'), -- Sandsteindrache
+(NEW.`id`, '93623', '0'), -- Scheckiger Drache
+(NEW.`id`, '93644', '0'), -- Vernichter der Kor'kron
+(NEW.`id`, '96491', '0'), -- Gepanzerter Razzashiraptor
+(NEW.`id`, '96499', '0'), -- Schneller zulianischer Panther
+(NEW.`id`, '96503', '0'), -- Drachenfalke der Amani
+(NEW.`id`, '97359', '0'), -- Hippogryph des Flammenschutzes
+(NEW.`id`, '97493', '0'), -- Reinblut-Feuerfalke
+(NEW.`id`, '97501', '0'), -- Teufelsfeuerfalke
+(NEW.`id`, '97560', '0'), -- Verderbter Feuerfalke
+(NEW.`id`, '97581', '0'), -- Wilder Raptor
+(NEW.`id`, '98204', '0'), -- Kampfbär der Amani
+(NEW.`id`, '98718', '0'), -- Beruhigtes Seepferdchen
+(NEW.`id`, '98727', '0'), -- Geflügelter Wächter
 -- 13 (325)
 (NEW.`id`, '100332', '0'),
 (NEW.`id`, '100333', '0'),
