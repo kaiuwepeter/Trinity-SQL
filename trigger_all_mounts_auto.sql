@@ -1059,7 +1059,7 @@ All IDs were checked via WoWHead and are or were available
 (NEW.`id`, '359409', '0'),
 (NEW.`id`, '359413', '0'),
 (NEW.`id`, '359379', '0');
--- 40 (1000)
+-- 40 (1000) -- 1000 IDs --> 910 mounts are displayed in the game (v11.0.2 56311 - Aug 23, 2024)
 
   END IF;
 
