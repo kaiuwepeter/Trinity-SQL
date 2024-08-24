@@ -410,31 +410,31 @@ All IDs were checked via WoWHead and are or were available
 (NEW.`id`, '127158', '0'), -- Himmlische Onyxwolkenschlange
 (NEW.`id`, '127161', '0'), -- Himmlische Purpurwolkenschlange
 -- 15 (375)
-(NEW.`id`, '127164', '0'),
-(NEW.`id`, '127165', '0'),
-(NEW.`id`, '127169', '0'),
-(NEW.`id`, '127170', '0'),
-(NEW.`id`, '127174', '0'),
-(NEW.`id`, '127176', '0'),
-(NEW.`id`, '127177', '0'),
-(NEW.`id`, '127178', '0'),
-(NEW.`id`, '127209', '0'),
-(NEW.`id`, '127213', '0'),
-(NEW.`id`, '127216', '0'),
-(NEW.`id`, '127220', '0'),
-(NEW.`id`, '127271', '0'),
-(NEW.`id`, '127286', '0'),
-(NEW.`id`, '127287', '0'),
-(NEW.`id`, '127288', '0'),
-(NEW.`id`, '127289', '0'),
-(NEW.`id`, '127290', '0'),
-(NEW.`id`, '127293', '0'),
-(NEW.`id`, '127295', '0'),
-(NEW.`id`, '127302', '0'),
-(NEW.`id`, '127308', '0'),
-(NEW.`id`, '127310', '0'),
-(NEW.`id`, '129552', '0'),
-(NEW.`id`, '129918', '0'),
+(NEW.`id`, '127164', '0'), -- Himmlische Goldwolkenschlange
+(NEW.`id`, '127165', '0'), -- Yu'lei, Tochter der Jade
+(NEW.`id`, '127169', '0'), -- Himmlische Azurwolkenschlange
+(NEW.`id`, '127170', '0'), -- Astrale Wolkenschlange
+(NEW.`id`, '127174', '0'), -- Azurblauer Reitkranich
+(NEW.`id`, '127176', '0'), -- Goldener Reitkranich
+(NEW.`id`, '127177', '0'), -- Königlicher Reitkranich
+(NEW.`id`, '127178', '0'), -- Dschungelreitkranich
+(NEW.`id`, '127209', '0'), -- Schwarzes Reityak
+(NEW.`id`, '127213', '0'), -- Bescheidenes Expeditionsyak
+(NEW.`id`, '127216', '0'), -- Graues Reityak
+(NEW.`id`, '127220', '0'), -- Falbes Reityak
+(NEW.`id`, '127271', '0'), -- Purpurroter Wasserschreiter
+(NEW.`id`, '127286', '0'), -- Schwarze Drachenschildkröte
+(NEW.`id`, '127287', '0'), -- Blaue Drachenschildkröte
+(NEW.`id`, '127288', '0'), -- Braune Drachenschildkröte
+(NEW.`id`, '127289', '0'), -- Purpurne Drachenschildkröte
+(NEW.`id`, '127290', '0'), -- Rote Drachenschildkröte
+(NEW.`id`, '127293', '0'), -- Große grüne Drachenschildkröte
+(NEW.`id`, '127295', '0'), -- Große schwarze Drachenschildkröte
+(NEW.`id`, '127302', '0'), -- Große blaue Drachenschildkröte
+(NEW.`id`, '127308', '0'), -- Große braune Drachenschildkröte
+(NEW.`id`, '127310', '0'), -- Große purpurne Drachenschildkröte
+(NEW.`id`, '129552', '0'), -- Purpurroter Pandarenphönix
+(NEW.`id`, '129918', '0'), -- Donnernde erhabene Wolkenschlange
 -- 16 (400)
 (NEW.`id`, '129932', '0'),
 (NEW.`id`, '129934', '0'),
