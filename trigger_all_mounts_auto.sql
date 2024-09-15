@@ -488,7 +488,7 @@ All IDs were checked via WoWHead and are or were available
 (NEW.`id`, '148428', '0'), -- Aschefellmushan
 (NEW.`id`, '148476', '0'), -- Donnernde Onyxwolkenschlange
 -- 18 (450)
-(NEW.`id`, '148618', '0'),
+(NEW.`id`, '148618', '0'), -- Wolkenschlange des tyrannischen Gladiators
 (NEW.`id`, '148619', '0'),
 (NEW.`id`, '148620', '0'),
 (NEW.`id`, '149801', '0'),
