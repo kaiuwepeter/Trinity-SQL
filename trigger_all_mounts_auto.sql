@@ -462,31 +462,31 @@ All IDs were checked via WoWHead and are or were available
 (NEW.`id`, '136505', '0'), -- Geisterhaftes Streitross
 (NEW.`id`, '138423', '0'), -- Kobaltblaues Urterrorhorn
 -- 17 (425)
-(NEW.`id`, '138424', '0'),
-(NEW.`id`, '138425', '0'),
-(NEW.`id`, '138426', '0'),
-(NEW.`id`, '138640', '0'),
-(NEW.`id`, '138641', '0'),
-(NEW.`id`, '138642', '0'),
-(NEW.`id`, '138643', '0'),
-(NEW.`id`, '139407', '0'),
-(NEW.`id`, '139442', '0'),
-(NEW.`id`, '139448', '0'),
-(NEW.`id`, '140249', '0'),
-(NEW.`id`, '140250', '0'),
-(NEW.`id`, '142073', '0'),
-(NEW.`id`, '142266', '0'),
-(NEW.`id`, '142478', '0'),
-(NEW.`id`, '142641', '0'),
-(NEW.`id`, '142878', '0'),
-(NEW.`id`, '142910', '0'),
-(NEW.`id`, '146615', '0'),
-(NEW.`id`, '146622', '0'),
-(NEW.`id`, '148392', '0'),
-(NEW.`id`, '148396', '0'),
-(NEW.`id`, '148417', '0'),
-(NEW.`id`, '148428', '0'),
-(NEW.`id`, '148476', '0'),
+(NEW.`id`, '138424', '0'), -- Goldgelbes Urterrorhorn
+(NEW.`id`, '138425', '0'), -- Schiefergraues Urterrorhorn
+(NEW.`id`, '138426', '0'), -- Jadegrünes Urterrorhorn
+(NEW.`id`, '138640', '0'), -- Knochenweißer Urraptor
+(NEW.`id`, '138641', '0'), -- Roter Urraptor
+(NEW.`id`, '138642', '0'), -- Schwarzer Urraptor
+(NEW.`id`, '138643', '0'), -- Grüner Urraptor
+(NEW.`id`, '139407', '0'), -- Wolkenschlange des bösartigen Gladiators
+(NEW.`id`, '139442', '0'), -- Donnernde Kobaltwolkenschlange
+(NEW.`id`, '139448', '0'), -- Kralle von Ji-Kun
+(NEW.`id`, '140249', '0'), -- Goldenes Urterrorhorn
+(NEW.`id`, '140250', '0'), -- Purpurrotes Urterrorhorn
+(NEW.`id`, '142073', '0'), -- Pegasus
+(NEW.`id`, '142266', '0'), -- Gepanzerter roter Drachenfalke
+(NEW.`id`, '142478', '0'), -- Gepanzerter blauer Drachenfalke
+(NEW.`id`, '142641', '0'), -- Kräftiges Mushan des Grubenkämpfers
+(NEW.`id`, '142878', '0'), -- Verzauberter Feendrache
+(NEW.`id`, '142910', '0'), -- Eisenbeschlagener Geisterstürmer
+(NEW.`id`, '146615', '0'), -- Boshafter Kriegssäbler der Kaldorei
+(NEW.`id`, '146622', '0'), -- Boshaftes Skelettschlachtross
+(NEW.`id`, '148392', '0'), -- Brut von Galakras
+(NEW.`id`, '148396', '0'), -- Kriegswolf der Kor'kron
+(NEW.`id`, '148417', '0'), -- Koloss der Kor'kron
+(NEW.`id`, '148428', '0'), -- Aschefellmushan
+(NEW.`id`, '148476', '0'), -- Donnernde Onyxwolkenschlange
 -- 18 (450)
 (NEW.`id`, '148618', '0'),
 (NEW.`id`, '148619', '0'),
